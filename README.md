@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Oscar Muñoz Herrera
+# 👋 Hi, I'm Oscar Muñoz Herrer
 
 🎯 **Junior Cloud & DevOps Engineer (in progress)**  
 🌍 Based in Spain | Open to remote international opportunities  
