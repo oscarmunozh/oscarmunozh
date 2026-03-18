@@ -20,7 +20,7 @@ Now I'm focused on closing the gap between sysadmin and cloud engineering — **
 
 ---
 
-## 🛠️ What I actually know
+## 🛠️ What I know
 
 | Area | Technologies |
 |------|-------------|
@@ -33,7 +33,7 @@ Now I'm focused on closing the gap between sysadmin and cloud engineering — **
 
 ---
 
-## 🌱 What I'm building right now
+## 🌱 What I'm building
 
 - 🚀 Deploying real infrastructure on **AWS** (EC2 and beyond)
 - 🐳 Learning **Docker** through hands-on projects
