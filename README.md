@@ -13,7 +13,7 @@ Systems Administration graduate from Castellón, Spain. I spent two years deep i
 
 I finished my Systems Administration degree with a solid foundation in sysadmin work, but what interests me most is the overlap between infrastructure and cloud engineering. I'm currently deploying real infrastructure on AWS, learning Docker hands-on, and building tools that I'd actually find useful.
 
-I've done internships at three different companies across both my degrees: Forcada (Kyocera printer and document management solutions, plus IT services and system maintenance), Modula (automated warehouse storage systems and industrial logistics), and currently Record Go (vehicle rental company managing fleets, booking platforms and digital operations) — 3 months each. Different environments, different tech stacks, same approach: figure out how things actually work before touching anything.
+I've done internships at three different companies across both my degrees: **Forcada** (Kyocera printer and document management solutions, plus IT services and system maintenance), **Modula** (automated warehouse storage systems and industrial logistics), and currently **Record Go** (vehicle rental company managing fleets, booking platforms and digital operations) — 3 months each. Different environments, different tech stacks, same approach: figure out how things actually work before touching anything.
 
 ---
 
