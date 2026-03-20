@@ -1,66 +1,51 @@
-<div align="center">
+# Hey, I'm Oscar 👋
 
-# Hi, I'm Oscar Muñoz 👋
+Systems Administration graduate from Castellón, Spain. I spent two years deep in Linux, networking and Windows Server, and now I'm shifting everything toward cloud and DevOps — not by following tutorials, but by building real things and figuring out what breaks.
 
-**Systems Administration Graduate → Cloud & DevOps Engineer (in progress)**
+📍 Castellón, Spain · Open to remote · B2 English (working toward C1)
 
-📍 Spain · Open to Remote · International · B2 English (working toward C1)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43MjV2MjAuNTVDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzVWMS43MjVDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white)](https://es.linkedin.com/in/oscar-mu%C3%B1oz-herrera-051332275)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/oscar-mu%C3%B1oz-herrera-051332275)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oherreram06@gmail.com)
 
-</div>
+---
+
+## About me
+
+I finished my Systems Administration degree with a solid foundation in sysadmin work, but what interests me most is the overlap between infrastructure and cloud engineering. I'm currently deploying real infrastructure on AWS, learning Docker hands-on, and building tools that I'd actually find useful.
+
+I've done internships at three different companies across both my degrees: Forcada (Kyocera printer and document management solutions, plus IT services and system maintenance), Modula (automated warehouse storage systems and industrial logistics), and currently Record Go (vehicle rental company managing fleets, booking platforms and digital operations) — 3 months each. Different environments, different tech stacks, same approach: figure out how things actually work before touching anything.
 
 ---
 
-## 🙋 About me
+## Technologies I work with
 
-I completed a technical degree in Systems Administration (ASIR) in Spain, where I built a real foundation in Linux, networking, and automation.  
-Now I'm focused on closing the gap between sysadmin and cloud engineering — **learning by doing, not just by watching tutorials.**
-
----
-
-## 🛠️ What I know
-
-| Area | Technologies |
-|------|-------------|
-| **Systems** | Linux (Ubuntu), CLI, server config |
-| **Scripting** | Bash, Python (basic), PowerShell |
+| Area | Tools |
+|---|---|
+| **Systems** | Linux (Ubuntu), Windows Server, CLI |
+| **Scripting** | Bash, PowerShell, Python (basic) |
 | **Networking** | TCP/IP, DNS, basic routing |
 | **Databases** | SQL, PostgreSQL |
 | **DevOps** | Git, GitHub, Docker (learning) |
-| **Cloud** | AWS — EC2, working toward more services |
+| **Cloud** | AWS — EC2, expanding to more services |
 
 ---
 
-## 🌱 What I'm building
+## Projects
 
-- 🚀 Deploying real infrastructure on **AWS** (EC2 and beyond)
-- 🐳 Learning **Docker** through hands-on projects
-- 📂 Building this portfolio to **show, not just tell**
+### 🔹 AD Manager
+A PowerShell tool to manage Active Directory users, groups and OUs through an interactive menu. Built it to practice real scripting on Windows Server and understand how to automate admin tasks without relying on the GUI.
 
----
-
-## 📂 Projects
+→ [View repository](https://github.com/oscarmunozh/AD-Manager)
 
 ### 🔹 ASIR Final Project
-> Web application built end-to-end as my degree capstone.
-
-- **Frontend:** HTML & CSS
-- **Database:** PostgreSQL
-- **What I learned:** Full deployment flow from local dev to working server
+Web application built as my degree capstone. Frontend in HTML/CSS, PostgreSQL database. The real learning was in the full deployment flow — from local development to a working production server.
 
 ---
 
-## 🎯 What I'm looking for
+## What I'm looking for
 
-A **junior Cloud/DevOps role** (remote preferred) where I can contribute from day one,  
-learn fast, and grow alongside a technical team.
+A junior Cloud or DevOps role (remote preferred) where I can contribute from day one and grow alongside a technical team. I'm not looking to be taught everything from scratch — I'm looking for real problems and context to work in.
 
 ---
 
-<div align="center">
-
-*Open to work · Open to challenges · Open to feedback*
-
-</div>
+*Open to work · Open to feedback*
