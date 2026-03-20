@@ -1,20 +1,22 @@
-# Hey, I'm Oscar 👋
-
-Systems Administration graduate from Castellón, Spain. I spent two years deep in Linux, networking and Windows Server, and now I'm shifting everything toward cloud and DevOps — not by following tutorials, but by building real things and figuring out what breaks.
-
-📍 Castellón, Spain · Open to remote · B2 English (working toward C1)
-
+# Hi, I'm Oscar Muñoz 👋
+ 
+**Systems Administration grad → Cloud & DevOps Engineer (in progress)**
+ 
+📍 Spain · Open to Remote · B2 English (working toward C1)
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/oscar-mu%C3%B1oz-herrera-051332275)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oherreram06@gmail.com)
-
+ 
 ---
-
-## About me
-
-I finished my Systems Administration degree with a solid foundation in sysadmin work, but what interests me most is the overlap between infrastructure and cloud engineering. I'm currently deploying real infrastructure on AWS, learning Docker hands-on, and building tools that I'd actually find useful.
-
-I've done internships at three different companies across both my degrees: Forcada (Kyocera printer and document management solutions, plus IT services and system maintenance), Modula (automated warehouse storage systems and industrial logistics), and currently Record Go (vehicle rental company managing fleets, booking platforms and digital operations) — 3 months each. Different environments, different tech stacks, same approach: figure out how things actually work before touching anything.
-
+ 
+## 🙋 About me
+ 
+Technology has been a constant in my life for as long as I can remember — and I turned that passion into a formal path, completing a 4-year technical degree in Systems Administration (ASIR) in Spain, covering both the intermediate and advanced levels.
+ 
+That gave me a solid foundation in Linux, networking, and automation. Now I'm focused on one thing: closing the gap between sysadmin and cloud engineering, and building the kind of hands-on experience that speaks for itself.
+ 
+I'm someone who takes ownership, adapts fast, and doesn't wait to be told twice. I'd rather ask the right question than assume the wrong answer.
+ 
 ---
 
 ## Technologies I work with
@@ -56,6 +58,13 @@ NeoLink centralises identity management, internal services and secure remote acc
 - k3s (lightweight Kubernetes) for container orchestration
 
 **Stack:** Proxmox · OPNsense · Active Directory · WireGuard · Docker · Nginx · AWS EC2 · PostgreSQL · Odoo · Grafana · Prometheus · TypeScript · Kubernetes
+
+---
+
+## Currently building
+ 
+- Deploying real infrastructure on **AWS** (EC2 and beyond)
+- Getting hands-on **Docker** practical projects
 
 ---
 
