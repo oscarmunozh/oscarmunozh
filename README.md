@@ -37,7 +37,7 @@ A PowerShell tool to manage Active Directory users, groups and OUs through an in
 
 → [View repository](https://github.com/oscarmunozh/AD-Manager)
 
-### 🔹 ASIR Final Project
+### Systems Administration Degree — Final Project
 Web application built as my degree capstone. Frontend in HTML/CSS, PostgreSQL database. The real learning was in the full deployment flow — from local development to a working production server.
 
 ---
